@@ -1,0 +1,28 @@
+body {
+    background-color: lightsalmon
+}
+
+.cover {
+    position: relative;
+    text-align: center;
+    top: 220px;
+    right: 80px;
+    font-size: large;
+    font-size: 70px;
+}
+
+.search {
+    position: relative;
+    text-align: center;
+    top: 220px;
+    right: 80px;
+    font-size: 50px;
+    height: 250px;
+}
+
+p {
+    position: relative;
+    text-align: center;
+    top: 40px;
+    right: 80px;
+}
