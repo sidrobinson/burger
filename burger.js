@@ -3,7 +3,7 @@ let fs = require("fs");
 
 // Server
 const app = express();
-let PORT = 9000;
+let PORT = 2100;
 const server = http.createServer(routes);
 
 // Create a generic function to handle requests and responses
