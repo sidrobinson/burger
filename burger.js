@@ -13,8 +13,8 @@ function handleRequest(request, response) {
   response.end(" " + request.url);
 }
 
-// when button at end of survey is clicked, take page to /apiFriendList.html
-document.getElementById("#buttonID").onclick = function () {
+// when submit button is clicked, new text box with burger should pop up to the left
+document.getElementById(".submit").onclick = function () {
 
 };
 
